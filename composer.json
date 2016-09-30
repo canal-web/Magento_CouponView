@@ -1,0 +1,13 @@
+{
+    "name": "canal-web/magento-couponview",
+    "type": "magento-module",
+    "description": "Rewrite Magento core in order to add a column showing coupon codes in admin's sales view.",
+    "require": {
+    },
+    "authors":[
+      {
+            "name":"Deborah Jean",
+            "email":"deborah@canal-web.fr"
+        }
+    ]
+}
